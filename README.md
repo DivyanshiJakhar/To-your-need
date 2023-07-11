@@ -19,13 +19,6 @@ No more turning to paid sites. Get all your work done absolutely free.
 <br>
 
 
-### Team : <strong>GROOT</strong>
-
-1. [Nandini Jain](https://github.com/nandiniinj)<br>
-2. [Isha Kondurkar](https://github.com/Isha-1290)<br>
-3. [Suhani Singhal](https://github.com/suhani3502)<br>
-4. [Jahnavi Chauhan](https://github.com/jkc1-4)<br>
-
 ## [Click Here](https://nandiniinj.github.io/Resource-Lab/) to view the Project.
 
 ### [Click Here](https://drive.google.com/drive/folders/1OpQEhy5wr68w3C-iKECZE3seJbt9bp49?usp=sharing) to view the Expanation Presentation
